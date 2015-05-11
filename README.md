@@ -1,0 +1,2 @@
+# LuckyCookie
+Minecraft plugin

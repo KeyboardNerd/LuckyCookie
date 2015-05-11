@@ -1,0 +1,16 @@
+name: LuckyCookie
+main: com.keyboardnerd.mc.luckycookie.LuckyCookie
+version: 1.0
+author: keyboardnerd
+description: >
+             give player random string when ate cookie.
+commands:
+   addToDict:
+      usage: |
+         /addToDic <word1> <word2> (<replace>)
+   toDict:
+      usage: |
+         /toDict <word1> <word2> (<replace>)
+   listDictKey:
+      usage: |
+         /listDictKey
